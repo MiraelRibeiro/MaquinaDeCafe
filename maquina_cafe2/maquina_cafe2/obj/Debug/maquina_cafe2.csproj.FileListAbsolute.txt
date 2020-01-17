@@ -1,0 +1,9 @@
+C:\Users\mira1\source\repos\maquina_cafe2\maquina_cafe2\bin\Debug\maquina_cafe2.exe.config
+C:\Users\mira1\source\repos\maquina_cafe2\maquina_cafe2\bin\Debug\maquina_cafe2.exe
+C:\Users\mira1\source\repos\maquina_cafe2\maquina_cafe2\bin\Debug\maquina_cafe2.pdb
+C:\Users\mira1\source\repos\maquina_cafe2\maquina_cafe2\obj\Debug\maquina_cafe2.csprojAssemblyReference.cache
+C:\Users\mira1\source\repos\maquina_cafe2\maquina_cafe2\obj\Debug\maquina_cafe2.Form1.resources
+C:\Users\mira1\source\repos\maquina_cafe2\maquina_cafe2\obj\Debug\maquina_cafe2.Properties.Resources.resources
+C:\Users\mira1\source\repos\maquina_cafe2\maquina_cafe2\obj\Debug\maquina_cafe2.csproj.GenerateResource.cache
+C:\Users\mira1\source\repos\maquina_cafe2\maquina_cafe2\obj\Debug\maquina_cafe2.exe
+C:\Users\mira1\source\repos\maquina_cafe2\maquina_cafe2\obj\Debug\maquina_cafe2.pdb
